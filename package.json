@@ -1,0 +1,25 @@
+{
+  "name": "application",
+  "version": "1.0.0",
+  "description": "This is demo applications ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node NodeJS(Singleton)/mian.js"
+  },
+  "keywords": [
+    "Node",
+    "CLI",
+    "Node",
+    "REPL."
+  ],
+  "author": "Archit",
+  "license": "ISC",
+  "devDependencies": {
+    "fs": "0.0.1-security",
+    "promise": "^8.0.0"
+  },
+  "dependencies": {
+    "alexa-sdk": "^1.0.11"
+  }
+}
